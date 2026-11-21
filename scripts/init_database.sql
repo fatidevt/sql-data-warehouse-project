@@ -13,6 +13,7 @@ WARNING:
     and ensure you have proper backups before running this script.
 */
 
+-- note if you want to execute multiple statements at once peparate with GO keyword
 USE master;
 GO
 
